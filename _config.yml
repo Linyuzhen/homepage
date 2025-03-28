@@ -1,18 +1,18 @@
 # Basic Information 
 title: Yuzhen Lin
-position: Ph.D. Student
+position: Researcher
 affiliation: Shenzhen University
 email: linyuzhen810@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: multimedia forensics, deepfake detection, image forgery, audio steganography
+description: Yuzhen Lin's academic homepage at Shenzhen University, focusing on multimedia forensics and security research.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=SGvZrXgAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
