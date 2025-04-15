@@ -4,60 +4,70 @@ main:
     authors: Zeqin Yu, Jiangqun Ni, Jian Zhang, Haoyi Deng, <strong>Yuzhen Lin</strong>
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    # image: ./assets/img/reinforced_distillation.png
+    image: ./assets/img/reinforced_distillation.png
   
   - title: "Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection"
     authors: Kaiqing Lin, <strong>Yuzhen Lin</strong>, Weixiang Li, Taiping Yao, Bin Li
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    # image: ./assets/img/vlm_deepfake.png
+    image: ./assets/img/vlm_deepfake.png
+
+  - title: "Fake it till you make it: Curricular Dynamic Forgery Augmentations Towards General Deepfake Detection"
+    authors: <strong>Yuzhen Lin</strong>, Wentang Song, Bin Li, Yuezun Li, Jiangqun Ni, Han Chen, Qiushi Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    image: ./assets/img/dynamic_curriculum.png
 
   - title: "A Quality-Centric Framework for Generic Deepfake Detection"
     authors: Wentang Song, Zhiyuan Yan, <strong>Yuzhen Lin</strong>, Taiping Yao, Changsheng Chen, Shen Chen, Yandan Zhao, Shouhong Ding, Bin Li
     conference_short: arXiv
     conference: arXiv preprint arXiv:2411.05335, 2024.
-    # image: ./assets/img/quality_deepfake.png
-
-   - title: "Fake it till you make it: Curricular Dynamic Forgery Augmentations Towards General Deepfake Detection"
-    authors: <strong>Yuzhen Lin</strong>, Wentang Song, Bin Li, Yuezun Li, Jiangqun Ni, Han Chen, Qiushi Li
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    # image: ./assets/img/dynamic_curriculum.png
-
+    image: ./assets/img/quality_deepfake.png
 
   - title: "DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization"
     authors: Zeqin Yu, Jiangqun Ni, <strong>Yuzhen Lin</strong>, Haodong Deng, Bin Li
     conference_short: CVPR
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
-    # image: ./assets/img/diff_forensics.png
-
+    image: ./assets/img/diff_forensics.png
 
   - title: "Towards General Deepfake Detection with Dynamic Curriculum"
     authors: Wentang Song, <strong>Yuzhen Lin</strong>, Bin Li
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
-    # image: ./assets/img/dynamic_curriculum.png
+    image: ./assets/img/dynamic_curriculum.png
+
+  - title: "Detection of Photoplethysmography Manipulation in Video Forgery"
+    authors: <strong>Yuzhen Lin</strong>, Emanuele Maiorana, Bin Li, Patrizio Campisi
+    conference_short: EUSIPCO
+    conference: 31st European Signal Processing Conference <strong>(EUSIPCO)</strong>, 615-619, 2023.
+    image: ./assets/img/ppg_detection.png
+
+  - title: "Learning to Locate the Text Forgery in Smartphone Screenshots"
+    authors: Zeqin Yu, Bin Li, <strong>Yuzhen Lin</strong>, Jiangqun Zeng, Jishen Zeng
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
+    image: ./assets/img/learning_to_locate.png
 
   - title: "Learning Features of Intra-Consistency and Inter-Diversity: Keys Toward Generalizable Deepfake Detection"
     authors: Han Chen, <strong>Yuzhen Lin</strong>, Bin Li, Shunquan Tan
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology, 33 (3), 1468-1480, 2022.
-    # image: ./assets/img/generalizable_deepfake.png
+    image: ./assets/img/generalizable_deepfake.png
 
   - title: "Source-ID-Tracker: Source Face Identity Protection in Face Swapping"
     authors: <strong>Yuzhen Lin</strong>, Han Chen, Emanuele Maiorana, Patrizio Campisi, Bin Li
     conference_short: ICME
     conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 01-06, 2022.
-    # image: ./assets/img/source_id_tracker.png
+    image: ./assets/img/source_id_tracker.png
 
   - title: "Towards Generalizable Deepfake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation"
     authors: <strong>Yuzhen Lin</strong>, Han Chen, Bin Li, Jiayuan Wu
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 576-580, 2022.
-    # image: ./assets/img/generalizable_detection.png
+    image: ./assets/img/generalizable_detection.png
 
   - title: "Exposing Face Forgery Clues via Retinex-Based Image Enhancement"
     authors: Han Chen, <strong>Yuzhen Lin</strong>, Bin Li
     conference_short: ACCV
     conference: Proceedings of the Asian Conference on Computer Vision <strong>(ACCV)</strong>, 602-617, 2022.
-    # image: ./assets/img/retinex.png
+    image: ./assets/img/retinex.png
