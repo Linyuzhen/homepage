@@ -21,7 +21,7 @@ main:
   - title: "A Quality-Centric Framework for Generic Deepfake Detection"
     authors: Wentang Song, Zhiyuan Yan, <strong>Yuzhen Lin</strong>, Taiping Yao, Changsheng Chen, Shen Chen, Yandan Zhao, Shouhong Ding, Bin Li
     conference_short: arXiv
-    conference: arXiv preprint arXiv:2411.05335, 2024.
+    conference: arXiv:2411.05335, 2024.
     image: ./assets/img/quality_deepfake.png
 
   - title: "DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization"
@@ -33,17 +33,17 @@ main:
   - title: "Towards General Deepfake Detection with Dynamic Curriculum"
     authors: Wentang Song, <strong>Yuzhen Lin</strong>, Bin Li
     conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     image: ./assets/img/dynamic_curriculum.png
 
   - title: "Detection of Photoplethysmography Manipulation in Video Forgery"
     authors: <strong>Yuzhen Lin</strong>, Emanuele Maiorana, Bin Li, Patrizio Campisi
     conference_short: EUSIPCO
-    conference: 31st European Signal Processing Conference <strong>(EUSIPCO)</strong>, 615-619, 2023.
+    conference: 31st European Signal Processing Conference <strong>(EUSIPCO)</strong>, 2023.
     image: ./assets/img/ppg_detection.png
 
   - title: "Learning to Locate the Text Forgery in Smartphone Screenshots"
-    authors: Zeqin Yu, Bin Li, <strong>Yuzhen Lin</strong>, Jiangqun Zeng, Jishen Zeng
+    authors: Zeqin Yu, Bin Li, <strong>Yuzhen Lin</strong>, Jinhua Zeng, Jishen Zeng
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
     image: ./assets/img/learning_to_locate.png
@@ -51,23 +51,23 @@ main:
   - title: "Learning Features of Intra-Consistency and Inter-Diversity: Keys Toward Generalizable Deepfake Detection"
     authors: Han Chen, <strong>Yuzhen Lin</strong>, Bin Li, Shunquan Tan
     conference_short: TCSVT
-    conference: IEEE Transactions on Circuits and Systems for Video Technology, 33 (3), 1468-1480, 2022.
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2022.
     image: ./assets/img/generalizable_deepfake.png
 
   - title: "Source-ID-Tracker: Source Face Identity Protection in Face Swapping"
     authors: <strong>Yuzhen Lin</strong>, Han Chen, Emanuele Maiorana, Patrizio Campisi, Bin Li
     conference_short: ICME
-    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 01-06, 2022.
+    conference: IEEE International Conference on Multimedia and Expo <strong>(ICME)</strong>, 2022.
     image: ./assets/img/source_id_tracker.png
 
   - title: "Towards Generalizable Deepfake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation"
-    authors: <strong>Yuzhen Lin</strong>, Han Chen, Bin Li, Jiayuan Wu
+    authors: <strong>Yuzhen Lin</strong>, Han Chen, Bin Li, Junqiang Wu
     conference_short: ICIP
-    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 576-580, 2022.
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2022.
     image: ./assets/img/generalizable_detection.png
 
   - title: "Exposing Face Forgery Clues via Retinex-Based Image Enhancement"
     authors: Han Chen, <strong>Yuzhen Lin</strong>, Bin Li
     conference_short: ACCV
-    conference: Proceedings of the Asian Conference on Computer Vision <strong>(ACCV)</strong>, 602-617, 2022.
+    conference: Proceedings of the Asian Conference on Computer Vision <strong>(ACCV)</strong>, 2022.
     image: ./assets/img/retinex.png

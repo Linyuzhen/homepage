@@ -14,9 +14,9 @@ Hello! I am a final-year PhD candidate at Shenzhen University, with an expected 
 ## News
 
 - **[Feb. 2025]** Two papers are presented on AAAI 2025, one of them is selected as *Oral* presentation.
-- **[Oct. 2024]** Our paper is presented on ECCV 2024.
-- **[Jun. 2024]** Our paper is presented on CVPR 2024.
-- **[Apr. 2024]** Our paper is presented on ICASSP 2024.
+- **[Oct. 2024]** One paper is presented on ECCV 2024.
+- **[Jun. 2024]** One paper is presented on CVPR 2024.
+- **[Apr. 2024]** One paper is presented on ICASSP 2024.
 
 {% include_relative _includes/publications.md %}
 
