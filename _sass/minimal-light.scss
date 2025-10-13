@@ -2,6 +2,19 @@
   display: flex; 
   align-items: center;}
 
+.publications ol.bibliography {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.publications ol.bibliography > li {
+  margin-bottom: 0.9rem;
+}
+
+.publications ol.bibliography > li:last-child {
+  margin-bottom: 0;
+}
+
 :root {
   --color-background: #ffffff;
   --color-surface: #f5f7fb;
