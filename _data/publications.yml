@@ -10,7 +10,7 @@ main:
   - title: "Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization"
     authors: Zeqin Yu, Jiangqun Ni, Jian Zhang, Haoyi Deng, <strong>Yuzhen Lin</strong>
     conference_short: AAAI
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI, Oral)</strong>, 2025.
     image: ./assets/img/reinforced_distillation.png
   
   - title: "Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection"

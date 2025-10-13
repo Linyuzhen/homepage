@@ -1,6 +1,6 @@
 # Basic Information 
 title: Yuzhen Lin
-position: PhD Student
+position: Ph.D Student
 affiliation: Shenzhen University
 email: linyuzhen810@gmail.com; linyuzhen2020@email.szu.edu.cn
 
@@ -8,7 +8,7 @@ email: linyuzhen810@gmail.com; linyuzhen2020@email.szu.edu.cn
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Multimedia Forensics, Multimedia Security, Deepfake Detection
 description: Yuzhen Lin's academic homepage at Shenzhen University, focusing on multimedia forensics and security research. Building a safe and secure multimedia world.
-canonical: https://linyuzhen810.github.io/
+canonical: https://linyuzhen.github.io/homepage/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -20,7 +20,7 @@ google_scholar: https://scholar.google.com/citations?user=SGvZrXgAAAAJ
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
@@ -30,11 +30,11 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

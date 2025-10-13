@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am Yuzhen, and I rea final-year PhD candidate at Shenzhen University, with an expected graduation in June 2025. My research lies in Multimedia Forensics and Security, mainly for Deepfake Detection. 
+Hello! I am Yuzhen Lin, and I received the Ph.D degree at Shenzhen University in June 2025. My research lies in Multimedia Forensics and Security, mainly for Deepfake Detection. I am supposed to delve deeper into computer vision and multimedia forensic research, particularly in addressing emerging challenges related to the security of AIGC Content and Generative Models.
 <!-- [Building a safe and secure multimedia world] -->
 
 ## Research Interests
