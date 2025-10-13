@@ -4,7 +4,7 @@ main:
   - title: "Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes"
     authors: Kaiqing Lin, Zhiyuan Yan, Ke-Yue Zhang, Li Hao, Yue Zhou, <strong>Yuzhen Lin</strong>, Weixiang Li, Taiping Yao, Shouhong Ding, Bin Li
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     image: ./assets/img/guard_me_if_you_know_me.png
 
   - title: "Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization"
