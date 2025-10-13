@@ -7,7 +7,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-12 publication-item">
       <div class="title">
         <a href="{{ link.pdf | default: link.page }}">{{ link.title }}</a>
       </div>

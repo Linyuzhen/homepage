@@ -4,15 +4,49 @@
 
 .publications ol.bibliography {
   margin: 0;
-  padding-left: 1.2rem;
+  padding-left: 1.1rem;
 }
 
 .publications ol.bibliography > li {
-  margin-bottom: 0.9rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--color-border);
 }
 
 .publications ol.bibliography > li:last-child {
   margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.publications .publication-item {
+  position: relative;
+  padding: 0.35rem 0;
+}
+
+.publications .title {
+  font-size: 1.04rem;
+  margin-bottom: 0.25rem;
+}
+
+.publications .author {
+  margin-bottom: 0.2rem;
+  line-height: 1.35;
+}
+
+.publications .periodical {
+  margin-bottom: 0.35rem;
+}
+
+.publications .links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  margin-top: 0.2rem;
+}
+
+.publications .links a {
+  margin: 0;
 }
 
 :root {
