@@ -16,5 +16,6 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><autocolor>IEEE Transactions on Information Forensics and Security (TIFS)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8423754"><autocolor>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97"><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></a></li>
 </ul>
