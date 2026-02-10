@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🧘 About Me
 
-Hello! I am Yuzhen Lin. I am a postdoctoral researcher at the University of Naples Federico II (Incoming). I received my Ph.D. degree from Shenzhen University in June 2025. MMy research lies in Multimedia Forensics and Security, mainly for Deepfake Detection. I am supposed to delve deeper into computer vision and multimedia forensic research, particularly in addressing emerging challenges related to the security of AIGC Content and Generative Models.
+Hello! I am Yuzhen Lin. I am a postdoctoral researcher at the University of Naples Federico II (Incoming). I received my Ph.D. degree from Shenzhen University in June 2025. My research lies in Multimedia Forensics and Security, mainly for Deepfake Detection. I am supposed to delve deeper into computer vision and multimedia forensic research, particularly in addressing emerging challenges related to the security of AIGC Content and Generative Models.
 <!-- [Building a safe and secure multimedia world] -->
 
 ## 🔬 Research Interests
