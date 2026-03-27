@@ -204,6 +204,37 @@ autocolor{
   color:var(--color-muted);
 }
 
+.service-heading {
+  margin: 0 0 0.35rem;
+}
+
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.9rem;
+  margin: 0 0 0.85rem;
+  padding: 0;
+  list-style: none;
+}
+
+.service-list li {
+  margin: 0;
+  line-height: 1.45;
+}
+
+.service-list li a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.service-list li a:hover autocolor {
+  color: var(--color-heading);
+}
+
+.service-list-last {
+  margin-bottom: 1.25rem;
+}
+
 lightonly {
   visibility: visible;
 }
