@@ -119,38 +119,49 @@ autocolor{
   color:#595959;
 }
 
+.service-group {
+  margin: 0 0 2rem;
+}
+
 .service-heading {
-  margin: 0 0 0.9rem;
+  margin: 0 0 0.95rem;
   font-size: 1.5rem;
   font-weight: 700;
   color: #111111;
 }
 
-.service-list {
-  margin: 0 0 1.25rem 0;
-  padding-left: 2rem;
-  list-style-type: circle;
-  list-style-position: outside;
+.service-items {
+  margin: 0;
 }
 
-.service-list li {
-  display: list-item;
-  width: 100%;
-  margin: 0 0 0.9rem;
+.service-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  margin: 0 0 0.95rem;
   line-height: 1.7;
   color: #111111;
 }
 
-.service-list li a {
+.service-bullet {
+  flex: 0 0 auto;
+  font-size: 1.3rem;
+  line-height: 1.15;
+  color: #111111;
+  transform: translateY(0.08rem);
+}
+
+.service-item a {
+  display: block;
   text-decoration: none;
   white-space: normal;
 }
 
-.service-list li a:hover autocolor {
+.service-item a:hover autocolor {
   color: #111111;
 }
 
-.service-list-last {
+.service-items-last {
   margin-bottom: 1.6rem;
 }
 
