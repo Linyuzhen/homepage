@@ -127,12 +127,15 @@ autocolor{
 }
 
 .service-list {
-  margin: 0 0 1.25rem 1.5rem;
-  padding: 0;
-  list-style: circle;
+  margin: 0 0 1.25rem 0;
+  padding-left: 2rem;
+  list-style-type: circle;
+  list-style-position: outside;
 }
 
 .service-list li {
+  display: list-item;
+  width: 100%;
   margin: 0 0 0.9rem;
   line-height: 1.7;
   color: #111111;
