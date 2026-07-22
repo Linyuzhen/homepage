@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🧘 About Me
 
-Hello! I am Yuzhen Lin, a postdoctoral researcher in the [GRIP Lab](https://www.grip.unina.it/) at the University of Naples Federico II, working with [Prof. Luisa Verdoliva](https://www.grip.unina.it/members/verdoliva). I received my Ph.D. in Information and Communication Engineering from Shenzhen University in June 2025. My research focuses on multimedia forensics and security, including deepfake detection, image forgery detection and localization, and the security of AIGC content and generative models.
+Hello! I am Yuzhen Lin, a postdoctoral researcher at the University of Naples Federico II, working with Prof. [Luisa Verdoliva](https://scholar.google.com/citations?user=HItjEd0AAAAJ&hl=en). I received my Ph.D. in Information and Communication Engineering from Shenzhen University in June 2025, supervised by Prof. [Bin Li](https://scholar.google.com/citations?user=g0iR9IkAAAAJ&hl=en). My research focuses on multimedia forensics and security, including deepfake detection, image forgery detection and localization, and the security of AIGC content and generative models.
 <!-- [Building a safe and secure multimedia world] -->
 
 ## 🔬 Research Interests
