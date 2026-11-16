@@ -13,6 +13,8 @@ Hello! I am Yuzhen Lin, a postdoctoral researcher at the University of Naples Fe
 - **Multimedia Security:** Information Hiding
 
 ## 🔥 News
+- **[Nov. 2026]** One paper is accepted by PR.
+- **[Jul. 2026]** One paper is accepted by TCSVT.
 - **[Sep. 2025]** One paper is accepted by NeurIPS 2025.
 - **[Feb. 2025]** Two papers are presented on AAAI 2025, one of them is selected as *Oral* presentation.
 - **[Oct. 2024]** One paper is presented on ECCV 2024.

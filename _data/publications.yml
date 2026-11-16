@@ -1,6 +1,17 @@
 main:
 
-  
+  - title: "Not All Fakes Are Equal: A Quality-Centric Framework for Deepfake Detection"
+    authors: Wentang Song, Zhiyuan Yan, <strong>Yuzhen Lin</strong>, Changsheng Chen, Bin Li
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2026.
+    image: ./assets/img/quality_deepfake.png
+
+  - title: "BC-IFL: A Multimodal Bias Correction Framework for Enhanced Image Forgery Localization"
+    authors: Haoyi Deng, Bin Li, <strong>Yuzhen Lin</strong>, Haodong Li, Changsheng Chen, Jiangqun Ni, Bo Cao
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026.
+    doi: 10.1109/TCSVT.2026.3711086
+
   - title: "Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes"
     authors: Kaiqing Lin, Zhiyuan Yan, Ke-Yue Zhang, Li Hao, Yue Zhou, <strong>Yuzhen Lin</strong>, Weixiang Li, Taiping Yao, Shouhong Ding, Bin Li
     conference_short: NeurIPS
@@ -24,12 +35,6 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     image: ./assets/img/dynamic_curriculum.png
-
-  - title: "A Quality-Centric Framework for Generic Deepfake Detection"
-    authors: Wentang Song, Zhiyuan Yan, <strong>Yuzhen Lin</strong>, Taiping Yao, Changsheng Chen, Shen Chen, Yandan Zhao, Shouhong Ding, Bin Li
-    conference_short: arXiv
-    conference: arXiv:2411.05335, 2024.
-    image: ./assets/img/quality_deepfake.png
 
   - title: "DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization"
     authors: Zeqin Yu, Jiangqun Ni, <strong>Yuzhen Lin</strong>, Haodong Deng, Bin Li

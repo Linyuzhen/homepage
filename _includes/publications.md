@@ -5,11 +5,21 @@
 
 {% for link in site.data.publications.main %}
 
+{% assign doi_url = nil %}
+{% if link.doi %}
+{% assign doi_url = link.doi | prepend: "https://doi.org/" %}
+{% endif %}
+{% assign publication_url = link.pdf | default: link.page | default: doi_url %}
+
 <li>
 <div class="pub-row">
   <div class="col-sm-12 publication-item">
       <div class="title">
-        <a href="{{ link.pdf | default: link.page }}">{{ link.title }}</a>
+        {% if publication_url %}
+        <a href="{{ publication_url }}">{{ link.title }}</a>
+        {% else %}
+        <a>{{ link.title }}</a>
+        {% endif %}
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
